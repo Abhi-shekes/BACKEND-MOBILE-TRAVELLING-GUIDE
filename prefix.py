@@ -1,0 +1,23 @@
+prefixes = [
+"Visit",
+"Explore",
+"Discover",
+"Experience",
+"Enjoy",
+"Take a tour of",
+"Immerse yourself in",
+"Wander through",
+"Indulge in",
+"Spend time at",
+"Marvel at",
+"Roam around",
+"Delve into",
+"Uncover",
+"Engage with",
+"Appreciate",
+"Discover the wonders of",
+"Embark on a journey to",
+"Take in the beauty of",
+"Get lost in",
+"Discover the hidden gems of"
+]
