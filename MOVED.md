@@ -1,0 +1,1 @@
+**This repo has moved into [Abhi-shekes/mobile-travelling-guide](https://github.com/Abhi-shekes/mobile-travelling-guide).** This repo is archived and read-only; the current code and full history live in the merged repo above.
